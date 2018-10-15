@@ -1,0 +1,32 @@
+h1{
+  padding-left: 1rem;
+  margin-top: 2rem;
+  background-color: white;
+  height: 3.3rem;
+}
+#actorName{
+  display: inline-block;
+  font-style: italic;
+  margin:0.5rem;
+}
+span{
+  margin-left: 1rem;
+  font-size: 1.1rem;
+  color: white;
+  background-color: black;
+}
+body{
+  background-image: linear-gradient(to left, #ffffff, #333333);
+}
+#text{
+  background-color: lightgrey;
+}
+#valueGuess{
+  margin:1rem;
+}
+button{
+  background-color: lightgreen;
+}
+label{
+    background-color: white;
+}
